@@ -1,0 +1,5 @@
+hostname,interface,ip,subnet,vlan
+Switch1,FastEthernet0/1,192.168.1.1,255.255.255.0,10
+Switch2,FastEthernet0/1,192.168.1.2,255.255.255.0,10
+Router1,GigabitEthernet0/0,10.0.0.1,255.255.255.252,
+Router1,GigabitEthernet0/1,192.168.2.1,255.255.255.0,
