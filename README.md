@@ -1,4 +1,4 @@
-# packet-tracer-config-gen
+# Bulk Configuration Script Generator
 
 This Python project helps automate the generation of network device configuration scripts based on a simple CSV file input. It's especially useful for quickly setting up Cisco Packet Tracer labs or preparing initial device configurations.
 
